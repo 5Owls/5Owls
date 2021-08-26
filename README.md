@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @5Owls
-- 👀 I’m interested in Data Science and Machine learning
-- 🌱 I’m currently human learning machine learning on Udacity
+- 👀 I’m interested in Data Science and Machine learning(and building games as a hobby)
+- 🌱 I’m currently a human learning machine learning on Udacity
 - 💞️ I’m looking to collaborate on anything that will expand my knowledge in the 
 Data science and machine learning industry. But I would love to build my own game one day. 
 So that will also be a wonderful thing to collaborate on.
